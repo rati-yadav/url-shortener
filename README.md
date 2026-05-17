@@ -1,10 +1,6 @@
 # 🔗 URL Shortener Web App
 A full-stack URL Shortener application that allows users to create short, shareable links, track clicks, and manage recent URLs with a clean and responsive interface.
 
-## 🚀 Live Demo
-🌐 Frontend: https://your-frontend-url.vercel.app
-🔗 Backend API: https://your-backend-url.onrender.com
-
 ## 🧠 Features
  ✨ Create short links instantly
 🔗 Custom alias support
