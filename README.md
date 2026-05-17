@@ -68,7 +68,7 @@ url-shortener/
 
 ### 🔹 1. Clone the repository
 
-git clone https://github.com/your-username/url-shortener.git
+git clone https://github.com/rati-yadav/url-shortener.git
 cd url-shortener
 
 
